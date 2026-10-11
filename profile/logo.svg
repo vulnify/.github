@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Vulnify">
+  <rect width="128" height="128" rx="28" fill="#0B1220"/>
+  <path fill="#3B82F6" d="M42 98 L36 70 Q34 46 54 36 Q72 26 86 34 L116 42 L98 52 L114 68 L86 60 Q84 80 70 92 Q56 104 42 98Z"/>
+  <circle cx="74" cy="50" r="6" fill="#0B1220"/>
+  <circle cx="76" cy="49" r="2.2" fill="#EFF6FF"/>
+</svg>
