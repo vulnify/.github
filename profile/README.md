@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vulnify/.github/main/profile/logo.png" width="72" height="72" alt="Vulnify logo">
+  <img src="https://raw.githubusercontent.com/vulnify/.github/main/profile/og-default.png" alt="Vulnify logo">
 </p>
 
 <h3 align="center">Runtime authorization for AI agents</h3>
